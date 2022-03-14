@@ -15,15 +15,15 @@ Para ser construído a parte eletrônica, usamos os componentes abaixo:
 - Jumpers macho-macho (servo -> arduino).
 
 ### Imagens dos componentes
-![Arduino Nano](Imagens_componentes/arduino_nano.png)
-![BMP180](Imagens_componentes/bmp180_novo.png)
-![Micro Servo 9g SG90](Imagens_componentes/servo.png)
+![Arduino Nano](https://github.com/paivaneto8190/Eletronica_PET_PRD/blob/main/teste_bmp180/Imagens_componentes/arduino_nano.png?raw=true)
+![BMP180](https://github.com/paivaneto8190/Eletronica_PET_PRD/blob/main/teste_bmp180/Imagens_componentes/bmp180_novo.png?raw=true)
+![Micro Servo 9g SG90](https://github.com/paivaneto8190/Eletronica_PET_PRD/blob/main/teste_bmp180/Imagens_componentes/servo.png?raw=true)
 
 Acima temos as imagens do Arduino Nano, do BMP180 e do Micro Servo 9g SG90, respectivamente.
 
 ### Conexões
 Abaixo, uma imagem com uma imagem mostrando a conexão de cada componente na placa:
-![Conexoes placa](Imagens_componentes/conexao.png)
+![Conexoes placa](https://github.com/paivaneto8190/Eletronica_PET_PRD/blob/main/teste_bmp180/Imagens_componentes/conexao.png?raw=true)
 
 ### Carregamente e execução do programa
 Para executar o programa no arduíno nano, deve ser seguir as seguintes instruções na IDE do Arduino:
