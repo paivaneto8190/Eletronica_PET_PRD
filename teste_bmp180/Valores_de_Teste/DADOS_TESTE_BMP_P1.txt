@@ -1,0 +1,66 @@
+Altitude : 108.47 m
+MAIOR altura = 108.41
+
+Altitude : 108.47 m
+MAIOR altura = 108.33
+
+Altitude : 108.55 m
+MAIOR altura = 108.41
+
+Altitude : 108.30 m
+MAIOR altura = 108.30
+
+Altitude : 108.55 m
+MAIOR altura = 108.19
+
+Altitude : 108.55 m
+MAIOR altura = 108.69
+
+Altitude : 108.63 m
+MAIOR altura = 108.72
+
+Altitude : 108.55 m
+MAIOR altura = 108.77
+
+Altitude : 109.22 m
+MAIOR altura = 108.86
+
+Altitude : 109.05 m
+MAIOR altura = 108.55
+
+Altitude : 108.63 m
+MAIOR altura = 108.55
+
+Altitude : 108.55 m
+MAIOR altura = 108.66
+
+Altitude : 108.47 m
+MAIOR altura = 108.30
+
+Altitude : 108.47 m
+MAIOR altura = 108.91
+
+Altitude : 108.72 m
+MAIOR altura = 108.66
+
+Altitude : 108.38 m
+MAIOR altura = 108.55
+
+Altitude : 108.89 m
+MAIOR altura = 108.75
+
+Altitude : 108.55 m
+MAIOR altura = 108.75
+
+Altitude : 108.30 m
+MAIOR altura = 108.52
+
+Altitude : 108.30 m
+MAIOR altura = 108.52
+
+Altitude : 108.97 m
+MAIOR altura = 108.52
+DEU CERTO
+Altitude : 108.89 m
+MAIOR altura = 108.52
+
